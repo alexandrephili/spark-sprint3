@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/spark-sprint3/static/css/main.d8bdb9a3.chunk.css",
+    "main.js": "/spark-sprint3/static/js/main.c48fa6cc.chunk.js",
+    "main.js.map": "/spark-sprint3/static/js/main.c48fa6cc.chunk.js.map",
+    "runtime~main.js": "/spark-sprint3/static/js/runtime~main.e9f9cae5.js",
+    "runtime~main.js.map": "/spark-sprint3/static/js/runtime~main.e9f9cae5.js.map",
+    "static/js/2.fec3726b.chunk.js": "/spark-sprint3/static/js/2.fec3726b.chunk.js",
+    "static/js/2.fec3726b.chunk.js.map": "/spark-sprint3/static/js/2.fec3726b.chunk.js.map",
+    "index.html": "/spark-sprint3/index.html",
+    "precache-manifest.65333f23823829becaf57c21f51b8373.js": "/spark-sprint3/precache-manifest.65333f23823829becaf57c21f51b8373.js",
+    "service-worker.js": "/spark-sprint3/service-worker.js",
+    "static/css/main.d8bdb9a3.chunk.css.map": "/spark-sprint3/static/css/main.d8bdb9a3.chunk.css.map"
+  }
+}
